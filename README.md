@@ -1,6 +1,8 @@
 # IW FINAL 自制相册
 
 > 本人本科期间的课程作业，有许多不够好以及有问题的地方，欢迎批评与交流。 :tada:
+>
+> 演示视频：https://www.bilibili.com/video/BV1ZY4y1R7pn/
 
 * **[简介](#简介)**
   * [功能介绍](#功能介绍)
@@ -443,11 +445,4 @@ static func saveData() {
 }
 ```
 
-
-
-
-
-<a id="aaa"></a>
-
-【感谢评阅】
 
